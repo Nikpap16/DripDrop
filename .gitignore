@@ -1,0 +1,17 @@
+
+.env
+config.local.php
+
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.log
+*.tmp
+
+/vendor/
+/node_modules/
+
+
+.vscode/
+.idea/
